@@ -1,0 +1,27 @@
+{
+  "name": "component-editable",
+  "version": "1.0.0",
+  "description": "A react wrapper to make any component content editable and get html with or without styles",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmerBhatti/component-editable.git"
+  },
+  "keywords": [
+    "content-editable",
+    "editable",
+    "edit",
+    "component",
+    "html edit",
+    "react edit"
+  ],
+  "author": "Omer Bhatti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmerBhatti/component-editable/issues"
+  },
+  "homepage": "https://github.com/OmerBhatti/component-editable#readme"
+}
